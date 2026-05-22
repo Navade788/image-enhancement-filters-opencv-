@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** ____________________________  
-- **Register No:** ______________________  
+- **Name:** S.NAVADEEP
+- **Register No:** 212224230180
 
 ---
 
